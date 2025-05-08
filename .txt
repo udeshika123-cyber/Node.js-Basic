@@ -1,0 +1,2 @@
+npm init -y => create package.json file
+npm install lodash => install lodash package
