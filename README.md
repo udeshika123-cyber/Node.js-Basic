@@ -31,8 +31,8 @@ Make sure you have installed:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/udeshika123-cyber/Node.js-Basic.git
+   cd NodeJs
 Install dependencies:
 
 bash
